@@ -26,7 +26,7 @@ int main () {
         do {
         for (int m=1; m<=side; m++) {
             for (int n=1; n<=side; n++) {
-                cout << "* ";
+                cout << "*  ";
             }
             cout << endl;
         }
